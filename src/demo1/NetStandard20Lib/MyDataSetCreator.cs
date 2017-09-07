@@ -9,9 +9,7 @@ namespace NetStandard20Lib
         {
             var dataset = new DataSet();
 
-            var stream = File.OpenRead(fileName);
-
-            dataset.ReadXml(stream);
+            dataset.ReadXml(fileName);
 
             return dataset;
         }

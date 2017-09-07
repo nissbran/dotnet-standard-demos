@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cars>
+  <Car>
+    <Id>1</Id>
+    <Name>BMW</Name>
+  </Car>
+  <Car>
+    <Id>2</Id>
+    <Name>Skoda</Name>
+  </Car>
+  <Car>
+    <Id>3</Id>
+    <Name>Audi</Name>
+  </Car>
+</Cars>

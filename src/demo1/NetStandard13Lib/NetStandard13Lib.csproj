@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <AssemblyName>NetStandard13Lib</AssemblyName>
+    <RootNamespace>NetStandard13Lib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
