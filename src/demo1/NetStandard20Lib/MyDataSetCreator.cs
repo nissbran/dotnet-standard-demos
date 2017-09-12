@@ -1,11 +1,10 @@
 ﻿using System.Data;
-using System.IO;
 
 namespace NetStandard20Lib
 {
     public class MyDataSetCreator
     {
-        public DataSet IWantSomeData(string fileName)
+        public DataSet CreateAwesomeDataSetFromFile(string fileName)
         {
             var dataset = new DataSet();
 

@@ -6,11 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NetStandard13Lib\NetStandard13Lib.csproj" />
-    <ProjectReference Include="..\NetStandard20Lib\NetStandard20Lib.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="CarData.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

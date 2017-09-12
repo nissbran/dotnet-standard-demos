@@ -47,11 +47,5 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\NetStandard13Lib\NetStandard13Lib.csproj">
-      <Project>{005ecc98-e9a5-422d-8dff-8c7a368b7a83}</Project>
-      <Name>NetStandard13Lib</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

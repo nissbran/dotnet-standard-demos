@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1B3C50C4-8449-4A37-8883-4555BAD35BF9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Demo1OldConsoleApp</RootNamespace>
-    <AssemblyName>Demo1OldConsoleApp</AssemblyName>
+    <RootNamespace>Demo1Net40ConsoleApp</RootNamespace>
+    <AssemblyName>Demo1Net40ConsoleApp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

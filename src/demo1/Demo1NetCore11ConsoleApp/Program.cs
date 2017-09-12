@@ -1,16 +1,12 @@
 ﻿using System;
 
-namespace Demo1Net46ConsoleApp
+namespace Demo1NetCore11ConsoleApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var assembly = System.Reflection.Assembly.GetExecutingAssembly();
-
-            var version = Environment.Version;
-
-            Console.WriteLine("Hello from .NET 4.6");
+            Console.WriteLine("Hello from .NET Core 1.1");
 
             //var reader13 = new Awesome13CarReader();
             //var carNames13 = reader13.GetCarNames("CarData.xml");
@@ -20,15 +16,13 @@ namespace Demo1Net46ConsoleApp
             //    Console.WriteLine(car);
             //}
 
-            //var reader20 = new Awesome20CarReader();
-            //var carNames20 = reader20.GetCarNames("CarData.xml");
+            //var reader16 = new Awesome16CarReader();
+            //var carNames16 = reader16.GetCarNames("CarData.xml");
 
-            //foreach (var car in carNames20)
+            //foreach (var car in carNames16)
             //{
             //    Console.WriteLine(car);
             //}
-
-            Console.ReadLine();
         }
     }
 }
