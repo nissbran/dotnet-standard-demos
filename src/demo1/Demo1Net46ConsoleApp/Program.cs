@@ -8,10 +8,10 @@ namespace Demo1Net46ConsoleApp
         {
             Console.WriteLine("Hello from .NET 4.6");
 
-            //var reader13 = new Awesome13CarReader();
-            //var carNames13 = reader13.GetCarNames("CarData.xml");
+            //var reader = new Awesome13CarReader();
+            //var carNames = reader.GetCarNames("CarData.xml");
 
-            //foreach (var car in carNames13)
+            //foreach (var car in carNames)
             //{
             //    Console.WriteLine(car);
             //}
