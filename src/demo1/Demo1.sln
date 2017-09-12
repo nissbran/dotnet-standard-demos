@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1NetCore11ConsoleApp", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStandard16Lib", "NetStandard16Lib\NetStandard16Lib.csproj", "{EB1C330E-0A90-4D2B-B8A2-9551248203C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore11Lib", "NetCore1.1Lib\NetCore11Lib.csproj", "{4EFDF54E-AC5A-4A4E-ADC2-5C94B790B2E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{EB1C330E-0A90-4D2B-B8A2-9551248203C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1C330E-0A90-4D2B-B8A2-9551248203C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1C330E-0A90-4D2B-B8A2-9551248203C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFDF54E-AC5A-4A4E-ADC2-5C94B790B2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFDF54E-AC5A-4A4E-ADC2-5C94B790B2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFDF54E-AC5A-4A4E-ADC2-5C94B790B2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFDF54E-AC5A-4A4E-ADC2-5C94B790B2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{48410293-BF76-469C-9151-4382652AA1C6} = {9F4D9FE8-2D6B-441E-B735-F716467D91A3}
 		{9C3C74A5-7F3F-44E0-8921-C0F2F49B9121} = {9F4D9FE8-2D6B-441E-B735-F716467D91A3}
 		{EB1C330E-0A90-4D2B-B8A2-9551248203C0} = {D6CAB032-DC4A-48DE-BF9B-94DB1D00B1A2}
+		{4EFDF54E-AC5A-4A4E-ADC2-5C94B790B2E4} = {D6CAB032-DC4A-48DE-BF9B-94DB1D00B1A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEE7BEE4-EE34-4C8D-81E7-53B8BDC9D400}
