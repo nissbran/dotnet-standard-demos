@@ -6,10 +6,6 @@ namespace Demo1Net46ConsoleApp
     {
         static void Main(string[] args)
         {
-            var assembly = System.Reflection.Assembly.GetExecutingAssembly();
-
-            var version = Environment.Version;
-
             Console.WriteLine("Hello from .NET 4.6");
 
             //var reader13 = new Awesome13CarReader();
