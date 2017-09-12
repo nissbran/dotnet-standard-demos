@@ -8,6 +8,14 @@ namespace Demo1NetCore11ConsoleApp
         {
             Console.WriteLine("Hello from .NET Core 1.1");
 
+            //var reader11 = new AwesomeCore11CarReader();
+            //var carNames11 = reader11.GetCarNames("CarData.xml");
+
+            //foreach (var car in carNames11)
+            //{
+            //    Console.WriteLine(car);
+            //}
+
             //var reader13 = new Awesome13CarReader();
             //var carNames13 = reader13.GetCarNames("CarData.xml");
 
@@ -23,6 +31,8 @@ namespace Demo1NetCore11ConsoleApp
             //{
             //    Console.WriteLine(car);
             //}
+
+            Console.ReadLine();
         }
     }
 }

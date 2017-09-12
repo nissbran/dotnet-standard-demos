@@ -8,6 +8,14 @@ namespace Demo1NetCore20ConsoleApp
         {
             Console.WriteLine("Hello from .NET Core 2.0");
 
+            //var reader11 = new AwesomeCore11CarReader();
+            //var carNames11 = reader11.GetCarNames("CarData.xml");
+
+            //foreach (var car in carNames11)
+            //{
+            //    Console.WriteLine(car);
+            //}
+
             //var reader16 = new Awesome13CarReader();
             //var carNames16 = reader16.GetCarNames("CarData.xml");
 
