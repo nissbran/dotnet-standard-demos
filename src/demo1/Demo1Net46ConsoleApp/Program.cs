@@ -15,15 +15,7 @@ namespace Demo1Net46ConsoleApp
             //{
             //    Console.WriteLine(car);
             //}
-
-            //var reader20 = new Awesome20CarReader();
-            //var carNames20 = reader20.GetCarNames("CarData.xml");
-
-            //foreach (var car in carNames20)
-            //{
-            //    Console.WriteLine(car);
-            //}
-
+            
             Console.ReadLine();
         }
     }

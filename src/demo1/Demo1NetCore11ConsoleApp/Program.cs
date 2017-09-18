@@ -24,10 +24,10 @@ namespace Demo1NetCore11ConsoleApp
             //    Console.WriteLine(car);
             //}
 
-            //var reader16 = new Awesome16CarReader();
-            //var carNames16 = reader16.GetCarNames("CarData.xml");
+            //var reader14 = new Awesome14CarReader();
+            //var carNames14 = reader14.GetCarNames("CarData.xml");
 
-            //foreach (var car in carNames16)
+            //foreach (var car in carNames14)
             //{
             //    Console.WriteLine(car);
             //}
