@@ -18,14 +18,7 @@ namespace NetCore20ConsoleApp
 
             if (response.IsSuccessStatusCode)
             {
-                var stream = await response.Content.ReadAsStreamAsync();
-
-                using (var reader = new StreamReader(stream))
-                {
-                    await reader.ReadLineAsync();
-                    var secondLine = await reader.ReadLineAsync();
-                    Console.WriteLine(secondLine);
-                }
+                Console.WriteLine("It works!");
             }
 
             
