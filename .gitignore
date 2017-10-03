@@ -288,3 +288,5 @@ __pycache__/
 *.xsd.cs
 
 !/src/libs/compiled/*
+src/demo3/compiled/ClassLibrary1.dll
+src/demo3/compiled/ClassLibrary2.dll
